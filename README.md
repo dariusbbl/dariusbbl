@@ -11,8 +11,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,linux,racket,haskell,git,vscode,opengl" />
-    <img src="https://img.shields.io/badge/Racket-A30E00?style=for-the-badge&logo=racket&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,linux,haskell,git,vscode,opengl" />
     <br/>
 </div>
 
