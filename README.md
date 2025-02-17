@@ -22,7 +22,7 @@
 <ul style="list-style-type:circle;">
   <li>IMDB Programme - Java
     <ul style="list-style-type:square;">
-      <li>Link: https://github.com/dariusbbl/project-name</li>
+      <li>https://github.com/dariusbbl/project-name</li>
     </ul>
   </li>
 </ul>
