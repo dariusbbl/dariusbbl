@@ -10,7 +10,15 @@
 <hr/>
 
 <h2 align="center">🚀 My Projects 🚀</h2>
-
+<ul style="list-style-type:circle;">
+  <li>Project Name
+    <ul style="list-style-type:square;">
+      <li>Description: Brief description of what the project does</li>
+      <li>Technologies used: C++, OpenGL, etc.</li>
+      <li>Link: https://github.com/dariusbbl/project-name</li>
+    </ul>
+  </li>
+</ul>
 <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
