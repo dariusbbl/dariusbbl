@@ -6,6 +6,15 @@
 
 <b><p align="center">A dedicated third-year Computer Science and Engineering student (Polytechnic University of Bucharest) with programming skills in C, C++, Java, Python, and web technologies, such as HTML and CSS. Experienced in functional programming with Racket, Haskell, and Prolog, along with graphics programming using OpenGL. Proficient in Linux environments and lexical analysis tools like FLEX. Advanced English communication skills, problem-solving oriented, and passionate about learning new technologies.</p></b>
 
+<div align="center"> 
+  <a href="mailto:bobelniceanud@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="your-linkedin-profile-url" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
 <br/>
 <hr/>
 
