@@ -13,8 +13,6 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,linux,haskell,git,vscode" />
     <br/>
-    <!-- A doua linie de skills pentru restul tehnologiilor -->
-    <img src="https://skillicons.dev/icons?i=bash,vim,opengl,github" />
 </div>
 
 <br/>
