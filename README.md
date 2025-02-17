@@ -21,7 +21,9 @@
 <h2 align="center">🚀 My Projects 🚀</h2>
 <ul style="list-style-type:circle;">
   <li>IMDB App | Java
-    <li>https://github.com/dariusbbl/project-name</li>
+      <ul style="list-style-type:square;">
+        <li>https://github.com/dariusbbl/project-name</li>
+      </ul>
   </li>
 </ul>
 <hr/>
