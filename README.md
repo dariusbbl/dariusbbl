@@ -6,6 +6,11 @@
 
 <b><p align="center">A dedicated third-year Computer Science and Engineering student (Polytechnic University of Bucharest) with programming skills in C, C++, Java, Python, and web technologies, such as HTML and CSS. Experienced in functional programming with Racket, Haskell, and Prolog, along with graphics programming using OpenGL. Proficient in Linux environments and lexical analysis tools like FLEX. Advanced English communication skills, problem-solving oriented, and passionate about learning new technologies.</p></b>
 
+<br/>
+<hr/>
+
+<h2 align="center">🚀 My Projects 🚀</h2>
+
 <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
