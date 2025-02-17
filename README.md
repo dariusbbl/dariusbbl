@@ -3,3 +3,5 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Bobelniceanu+Darius!" />
 </h1>
+
+<b><p align="center">A dedicated third-year Computer Science and Engineering student with strong programming skills in C, C++, Java, Python, and web technologies. Experienced in functional programming with Racket, Haskell, and Prolog, along with graphics programming using OpenGL. Proficient in Linux environments and lexical analysis tools like FLEX. Advanced English communication skills, problem-solving oriented, and passionate about learning new technologies.</p></b>
