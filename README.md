@@ -24,6 +24,7 @@
       <ul style="list-style-type:square;">
         <li>https://github.com/dariusbbl/IMDB</li>
       </ul>
+  </li>
 <ul style="list-style-type:circle;">
     <li>Mini Libc library implementation | C
       <ul style="list-style-type:square;">
