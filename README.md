@@ -32,12 +32,15 @@
       <ul style="list-style-type:square;">
         <li>https://github.com/dariusbbl/Mini-Libc</li>
       </ul>
-
+    </li>
+</ul>
 <ul style="list-style-type:circle;">
     <li>A fork-join pool implementation used to traverse a graph | C
       <ul style="list-style-type:square;">
         <li>https://github.com/dariusbbl/ParallelGraph</li>
       </ul>
+    </li>
+</ul>
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
