@@ -41,6 +41,20 @@
       </ul>
     </li>
 </ul>
+<ul style="list-style-type:circle;">
+    <li>Router data plane implementation | C++
+      <ul style="list-style-type:square;">
+        <li>https://github.com/dariusbbl/MessageStream</li>
+      </ul>
+    </li>
+</ul>
+<ul style="list-style-type:circle;">
+    <li>Web client that can communicate with an REST API | C
+      <ul style="list-style-type:square;">
+        <li>https://github.com/dariusbbl/WebClientRESTAPI</li>
+      </ul>
+    </li>
+</ul>
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
