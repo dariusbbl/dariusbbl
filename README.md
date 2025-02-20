@@ -55,6 +55,41 @@
       </ul>
     </li>
 </ul>
+<ul style="list-style-type:circle;">
+    <li>PPM image compresor | C
+      <ul style="list-style-type:square;">
+        <li>https://github.com/dariusbbl/ImageCompression</li>
+      </ul>
+    </li>
+</ul>
+<ul style="list-style-type:circle;">
+    <li>A set of algorithmic problems solved | C++
+      <ul style="list-style-type:square;">
+        <li>https://github.com/dariusbbl/Algorithmics</li>
+      </ul>
+    </li>
+</ul>
+<ul style="list-style-type:circle;">
+    <li>BitTorrent Protocol implementation | C
+      <ul style="list-style-type:square;">
+        <li>https://github.com/dariusbbl/BitTorrent-Protocol</li>
+      </ul>
+    </li>
+</ul>
+<ul style="list-style-type:circle;">
+    <li>Map-Reduce paradigm multithreading | C++
+      <ul style="list-style-type:square;">
+        <li>https://github.com/dariusbbl/Map-Reduce-Parallel</li>
+      </ul>
+    </li>
+</ul>
+<ul style="list-style-type:circle;">
+    <li>Switch implementation in networks  | Python
+      <ul style="list-style-type:square;">
+        <li>https://github.com/dariusbbl/Switch</li>
+      </ul>
+    </li>
+</ul>
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
