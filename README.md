@@ -23,10 +23,11 @@
   <li>IMDB App | Java
       <ul style="list-style-type:square;">
         <li>https://github.com/dariusbbl/IMDB</li>
-    <li>Mini LibC Library | C
+      </ul>
+<ul style="list-style-type:circle;">
+    <li>Mini Libc library implementation | C
       <ul style="list-style-type:square;">
         <li>https://github.com/dariusbbl/Mini-Libc</li>
-    
       </ul>
   </li>
 </ul>
