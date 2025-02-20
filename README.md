@@ -84,23 +84,44 @@
     </li>
 </ul>
 <ul style="list-style-type:circle;">
-    <li>Switch implementation in networks  | Python
+    <li>Switch implementation in networks | Python
       <ul style="list-style-type:square;">
         <li>https://github.com/dariusbbl/Switch</li>
       </ul>
     </li>
 </ul>
 <ul style="list-style-type:circle;">
-    <li>Artillery Combat Game Engine 2D - "Tank Wars"  | C++ & OpenGL
+    <li>Artillery Combat Game Engine 2D - "Tank Wars" | C++ & OpenGL
       <ul style="list-style-type:square;">
         <li>https://github.com/dariusbbl/TankWars</li>
       </ul>
     </li>
 </ul>
 <ul style="list-style-type:circle;">
-    <li>Drone Package Delivery Game Engine 3D  | C++ & OpenGL
+    <li>Drone Package Delivery Game Engine 3D | C++ & OpenGL
       <ul style="list-style-type:square;">
-        <li>https://github.com/dariusbbl/DroneDelivery</li>
+        <li>https://github.com/dariusbbl/Drone-Delivery</li>
+      </ul>
+    </li>
+</ul>
+<ul style="list-style-type:circle;">
+    <li>Grammars and Automatons interpretor | Flex & C++
+      <ul style="list-style-type:square;">
+        <li>https://github.com/dariusbbl/Grammars-Automatons</li>
+      </ul>
+    </li>
+</ul>
+<ul style="list-style-type:circle;">
+    <li>Suffix Tree Library | Racket
+      <ul style="list-style-type:square;">
+        <li>https://github.com/dariusbbl/SuffixTreeLibrary</li>
+      </ul>
+    </li>
+</ul>
+<ul style="list-style-type:circle;">
+    <li>DSL embedded în Haskell for working with images | Haskell
+      <ul style="list-style-type:square;">
+        <li>https://github.com/dariusbbl/DSLHaskell</li>
       </ul>
     </li>
 </ul>
