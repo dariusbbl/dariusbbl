@@ -129,6 +129,6 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,sql,linux,haskell,git,vscode,opengl" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,sql+,linux,haskell,git,vscode,opengl" />
     <br/>
 </div>
