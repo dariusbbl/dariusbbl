@@ -105,6 +105,13 @@
     </li>
 </ul>
 <ul style="list-style-type:circle;">
+    <li>E-Book reader, powered by the ESP32-C6 microcontroller, designed with low power consumption in mind, advanced connectivity features, and flexible hardware integration | Fusion Autodesk
+      <ul style="list-style-type:square;">
+        <li>https://github.com/dariusbbl/OpenBook</li>
+      </ul>
+    </li>
+</ul>
+<ul style="list-style-type:circle;">
     <li>Grammars and Automatons interpretor | Flex & C++
       <ul style="list-style-type:square;">
         <li>https://github.com/dariusbbl/Grammars-Automatons</li>
