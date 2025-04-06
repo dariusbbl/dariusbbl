@@ -105,7 +105,7 @@
     </li>
 </ul>
 <ul style="list-style-type:circle;">
-    <li>E-Book reader, powered by the ESP32-C6 microcontroller, designed with low power consumption in mind, advanced connectivity features, and flexible hardware integration | Fusion Autodesk
+    <li>E-Book reader, powered by the ESP32-C6 microcontroller for low power operation, modern connectivity, and hardware flexibility | Fusion Autodesk
       <ul style="list-style-type:square;">
         <li>https://github.com/dariusbbl/OpenBook</li>
       </ul>
