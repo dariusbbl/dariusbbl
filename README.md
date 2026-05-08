@@ -20,6 +20,13 @@
 
 <h2 align="center">🚀 My Projects 🚀</h2>
 <ul style="list-style-type:circle;">
+  <li>Swiprin App | Java, Spring, React, PostgreSQL
+      <ul style="list-style-type:square;">
+        <li>https://github.com/dariusbbl/swiprin</li>
+      </ul>
+  </li>
+</ul>
+<ul style="list-style-type:circle;">
   <li>IMDB App | Java
       <ul style="list-style-type:square;">
         <li>https://github.com/dariusbbl/IMDB</li>
