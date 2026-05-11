@@ -42,6 +42,13 @@
     </li>
 </ul>
 <ul style="list-style-type:circle;">
+  <li>Arena Battle, a top-down arena-style game where two teams of bots battle on a map | Python
+      <ul style="list-style-type:square;">
+        <li>https://gitlab.cs.pub.ro/mps-2025/track-1/labma8-10_producatorii/2d-arena-micro-battle</li>
+      </ul>
+  </li>
+</ul>
+<ul style="list-style-type:circle;">
     <li>A fork-join pool implementation used to traverse a graph | C
       <ul style="list-style-type:square;">
         <li>https://github.com/dariusbbl/ParallelGraph</li>
