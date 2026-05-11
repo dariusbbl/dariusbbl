@@ -56,6 +56,13 @@
   </li>
 </ul>
 <ul style="list-style-type:circle;">
+  <li>Embedded Linux Lights Controller | Buildroot, Linux Kernel, Python, GPIO, QEMU
+      <ul style="list-style-type:square;">
+        <li>https://github.com/dariusbbl/embedded-gpio</li>
+      </ul>
+  </li>
+</ul>
+<ul style="list-style-type:circle;">
     <li>A fork-join pool implementation used to traverse a graph | C
       <ul style="list-style-type:square;">
         <li>https://github.com/dariusbbl/ParallelGraph</li>
